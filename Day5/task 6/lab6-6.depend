@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666320120 source:d:\new folder\lab6-6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

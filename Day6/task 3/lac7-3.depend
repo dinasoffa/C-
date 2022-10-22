@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666417739 source:d:\new folder\lac7-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

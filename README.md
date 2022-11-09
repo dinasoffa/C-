@@ -74,3 +74,16 @@ Day 6 tasks
 
 4. C Program that asks the user for number of Lines he want "line is a struct, each line have 2 points", 
 	then displays length of each one.(Dynamic Allocation of 1D Array of objects)
+	
+task 1:	
+1. C Program that has Array of pointers to struct Employee. (Array of pointers to struct)
+	Array size is 3, and asks the user for each pointer size.
+
+task2:
+2. C Program to calculate sum of student degrees, and average of each subject, asks the user for
+	students and subject numbers. (Dynamic Allocation of 2D Array - Pointer to Pointer)
+
+task3 :
+
+- Try to implement --jagged array-- on Assinment No.4 , which means:
+ each student may have number of subjects different than the other. 
